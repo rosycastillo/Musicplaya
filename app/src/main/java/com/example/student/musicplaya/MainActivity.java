@@ -1,4 +1,4 @@
-package com.example.student.musicplayer;
+package com.example.student.musicplaya;
 
 import android.content.Context;
 import android.media.MediaMetadataRetriever;
@@ -87,4 +87,4 @@ public class MainSong extends AppCompatActivity {
         // @Override
 // public void onStopTrackingTouch(SeekBar seekBar) {
 // song1.seekTo(seekTime);
-        ...
+    }}
